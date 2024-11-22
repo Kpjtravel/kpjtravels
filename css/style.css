@@ -250,7 +250,7 @@ a:focus {
 .slider_section .slider_form {
   width: 400px;
   padding: 25px;
-  background-color: #282828;
+  background-color: #004080;
   border-radius: 10px;
   margin: auto;
 }
@@ -294,8 +294,9 @@ a:focus {
   min-width: 116px;
   border: none;
   outline: none;
-  background-color: #004080;
+  background-color: #f7c621;
   color: #ffffff;
+  font-weight: 700;
 }
 
 .slider_section .carousel-indicators {
