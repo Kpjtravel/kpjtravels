@@ -4196,6 +4196,9 @@ input[type="button"].btn-block {
 .navbar-nav .nav-link {
   padding-right: 0;
   padding-left: 0;
+  font-size: larger;
+  font-weight: 800;
+  color: #f7c621 !important;
 }
 
 .navbar-nav .dropdown-menu {
